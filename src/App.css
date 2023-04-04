@@ -1,0 +1,22 @@
+.App {
+  background-color: #1e1e1e;
+  min-height: 100vh;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.card {
+  width: 18rem;
+  background-color: transparent;
+  color: grey;
+}
+
+.wrapper {
+  margin: 0px auto;
+  justify-content: space-evenly;
+}
+input::placeholder {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
